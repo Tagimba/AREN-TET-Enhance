@@ -2,4 +2,4 @@
 
 ## Contributors
 
--Hafsat Ahmad
+- Hafsat Ahmad
